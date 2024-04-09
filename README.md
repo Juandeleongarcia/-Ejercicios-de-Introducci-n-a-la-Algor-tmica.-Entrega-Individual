@@ -1,1 +1,1 @@
-# -Ejercicios-de-Introducci-n-a-la-Algor-tmica.-Entrega-Individual
+# -Ejercicios-de-Introduccion-a-la-Algoritmica.-Entrega-Individual
